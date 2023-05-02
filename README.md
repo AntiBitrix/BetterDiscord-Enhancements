@@ -4,3 +4,6 @@ BetterDiscord-Enhancements is a collection of powerful plugins and themes design
 # Plugins
 
 1.[Discord Typing Indicator](https://github.com/VeereswarG/BetterDiscord-Enhancements/blob/main/DiscordTypingIndicator/Readme.md)..
+
+# Final
+Enjoying our BetterDiscord enhancements? Let us know with a Star! We're committed to making Discord even better. Made with passion by [veereswarg](https://github.com/VeereswarG/)
