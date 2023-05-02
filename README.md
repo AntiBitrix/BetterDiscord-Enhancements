@@ -14,6 +14,13 @@ To use this plugin, you must have BetterDiscord installed on your computer. If y
 3. Reload Discord by pressing `Ctrl+R` or by restarting the application.
 4. Enable the plugin by going to Discord's settings, then navigating to the "Plugins" tab and toggling the switch for the "Discord Typing Indicator Plugin".
 
+##Example
+
+<p align="center">
+  <img src="./typing-indicator.gif" alt="Typing Indicator">
+</p>
+
+
 ## Usage
 
 Once the plugin is enabled, a typing indicator will appear on the right side of the text input field whenever you type in a chat. The indicator will disappear when you stop typing.
