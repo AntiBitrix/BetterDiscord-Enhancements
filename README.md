@@ -17,7 +17,7 @@ To use this plugin, you must have BetterDiscord installed on your computer. If y
 ##Example
 
 <p align="center">
-  <img src="./typing-indicator.gif" alt="Typing Indicator">
+  <img src="https://github.com/VeereswarG/BetterDiscord-Enhancements/blob/main/img/typing-indicator.gif?raw=true" alt="Typing Indicator">
 </p>
 
 
